@@ -11,10 +11,10 @@ This repository is designed to be flexible and will grow over time as more datas
   A beginner-friendly project that covers data cleaning, feature engineering, and classification using various machine learning models.
 
 - **House Prices: Advanced Regression Techniques**
+  - [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 - **Other Datasets**  
   *(I'll add or update the list below)*
-  - [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
   - [MNIST Handwritten Digits](https://www.kaggle.com/c/digit-recognizer)
   - [Wine Quality](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009)
 
