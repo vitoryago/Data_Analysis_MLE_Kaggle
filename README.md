@@ -10,6 +10,8 @@ This repository is designed to be flexible and will grow over time as more datas
   - [Titanic – Machine Learning from Disaster](https://www.kaggle.com/c/titanic)  
   A beginner-friendly project that covers data cleaning, feature engineering, and classification using various machine learning models.
 
+- **House Prices: Advanced Regression Techniques**
+
 - **Other Datasets**  
   *(I'll add or update the list below)*
   - [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
